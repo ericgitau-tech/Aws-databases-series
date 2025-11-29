@@ -11,6 +11,6 @@ This repository contains a hands-on series of projects that cover essential AWS 
 - **Load Data into DynamoDB**
 - **Query Data with DynamoDB**
 
-## 🎯 Goal
+## 🎯 Goal 
 
 To provide practical, step-by-step AWS database projects that help learners build cloud skills — from relational (Aurora) to NoSQL (DynamoDB). The series demonstrates how to design, deploy, and query databases while integrating them with applications and AWS services.
