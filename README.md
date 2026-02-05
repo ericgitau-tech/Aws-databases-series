@@ -4,7 +4,6 @@
 
 This repository documents my hands-on journey through **AWS database services**, focusing on real-world use cases, security best practices, and production-style workflows. Each project is designed to demonstrate practical cloud skills that are directly relevant to **Cloud Engineer, DevOps, and Support Engineer** roles.
 
-If you’re a recruiter or hiring manager: this repo shows **how I think, how I build, and how I troubleshoot in AWS**.
 
 ---
 
